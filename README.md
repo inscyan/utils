@@ -12,5 +12,3 @@
 **process_pool.py**：python进程池简单实现
 
 **thread_pool.py**：python线程池简单实现
-
-**warning_ignore.py**：代码执行不显示warning

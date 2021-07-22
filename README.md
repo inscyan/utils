@@ -1,7 +1,7 @@
 # utils
 工具类代码
 
-**custom_tensorboard_keras.py**：Keras自定义TensorBoard实现
+**custom_tensorboard_tf2.py**：tf2自定义TensorBoard
 
 **decorator_use_time.py**：装饰器实现函数用时
 

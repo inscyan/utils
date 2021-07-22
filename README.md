@@ -12,3 +12,9 @@
 **process_pool.py**：python进程池简单实现
 
 **thread_pool.py**：python线程池简单实现
+
+**connect_db.py**：读取多种数据库
+
+**tfidf_key_word.py**：抽取关键词（TF-IDF），按权重由大到小排序
+
+**warmup.py**：深度学习训练中学习率的两种warmup方式

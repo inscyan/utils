@@ -1,9 +1,9 @@
 import numpy as np
-from keras.callbacks import TensorBoard
+from tensorflow.keras.callbacks import TensorBoard
 
 
 class AddTensorBoard(TensorBoard):
-    """add top3_val_acc to tensorboard"""
+    """举例：添加 top3_val_acc to tensorboard"""
 
     def __init__(self, val_label_list, top=3):
         self.val_label_list = val_label_list
